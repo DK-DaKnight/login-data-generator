@@ -1,8 +1,4 @@
-Sure! Here's a full English README for your JavaFX-based **Login Data Generator** project:
-
----
-
-# Login Data Generator
+# Login Data Generator  <img src="/images/icon.png" alt="Login Data Generator Icon" width="30" height="30">
 
 **Login Data Generator** is a simple desktop application that generates random usernames and passwords. It's designed for developers, testers, or anyone who needs quick and customizable login credentials. The application features a clean and user-friendly UI built with JavaFX.
 
@@ -121,7 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **DK-DaKnight**
 GitHub: [DK-DaKnight](https://github.com/yourusername)
-
----
-
-Let me know if you'd like a German version too, or if you want a matching `LICENSE` and example `Main.java`/`Generator.java` file included!
